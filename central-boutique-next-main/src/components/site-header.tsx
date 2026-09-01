@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Menu, X, ChevronDown } from "lucide-react";
-import logoAsset from "@/assets/logo (2).png";
+import logoAsset from "@/assets/logo(2).png";
 import { hotelInfo } from "@/lib/site-data";
 
 const nav = [
