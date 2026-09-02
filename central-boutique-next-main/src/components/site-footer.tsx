@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 import { Instagram, Facebook, MapPin, Phone, Mail, Plus, Minus } from "lucide-react";
-import logoAsset from "@/assets/logo2.jpeg";
+import logoAsset from "@/assets/logo (2).png";
 import { Ornament } from "./ornament";
 import { hotelInfo } from "@/lib/site-data";
 
