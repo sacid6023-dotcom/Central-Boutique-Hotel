@@ -156,14 +156,19 @@ export const testimonials = [
     quote: "My first preference for the stays goes to The Central Boutique Hotel, Moradabad. It is undeniably the beautiful stay each time at Moradabad.",
   },
   {
-    name: "Dilshad Ahmed",
+    name: "Arushi Trivedi",
     origin: "Verified Guest",
-    quote: "A great hotel to stay in. Could not find any fault with this hotel, staff very helpful and attentive. Hotel is very clean and great facilities.",
+    quote: "The place was extremely hospitable, I had a great experience.Special Thanks to Ranjeet ji, he made the whole the whole stay very homely.Special mention to the food. The food was the tastiest food I've tasted.So thankyou!",
+  },
+  { 
+    name: "Dikshant Singh",
+    origin: "Verified Guest",
+    quote: "A good hotel with a comfortable stay and friendly staff. The service was smooth, and they don’t interfere with your schedule. Overall, a pleasant experience. Would consider staying again!",
   },
   {
-    name: "Nisha Patel",
+    name: "Harsh",
     origin: "Verified Guest",
-    quote: "Excellent location. Staff were helpful and couldn't do enough for you. Great hotel would definitely recommend and stay again.",
+    quote: "Great service.Special mention for manager Ranjeet Sharma.Comfortable.",
   },
 ];
 
