@@ -151,9 +151,9 @@ export const galleryImages: GalleryItem[] = [
 
 export const testimonials = [
   {
-    name: "Rohit Suri",
+    name: "Priyansh singh",
     origin: "Verified Guest",
-    quote: "Good service, clean room, decent WiFi speeds & great food. I stayed in the deluxe room and found it be good value for the money you spend on it.",
+    quote: "My first preference for the stays goes to The Central Boutique Hotel, Moradabad. It is undeniably the beautiful stay each time at Moradabad.",
   },
   {
     name: "Dilshad Ahmed",
